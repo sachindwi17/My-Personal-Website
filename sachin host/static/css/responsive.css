@@ -30,8 +30,7 @@
 		margin: 15px 0;
 	}
 	.gobtn{
-		margin-left: 100px;
-		padding: 5px;
+		display: none;
 	}
 	#port_pop_pic{
 		left: 30px;
