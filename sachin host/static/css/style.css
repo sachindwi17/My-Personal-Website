@@ -209,6 +209,24 @@ body,html{
 	transform: scale(1);
 	opacity: 1;
 }
+.gobtn{
+	border: none;
+	border-radius: 20px;
+	margin-left: 165px;
+	padding: 5px;
+}
+.gobtn:hover{
+	background-color: #020f46;
+	border: none;
+	border-radius: 20px;
+}
+.gobtn a{
+	text-decoration: none;
+	font-weight: bold;
+}
+.gobtn a:hover{
+	color: tomato;
+}
 #port_pop_pic_bg{
 	position: fixed;
 	left: 0;

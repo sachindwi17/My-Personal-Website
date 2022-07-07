@@ -29,6 +29,10 @@
 	.about-box{
 		margin: 15px 0;
 	}
+	.gobtn{
+		margin-left: 100px;
+		padding: 5px;
+	}
 	#port_pop_pic{
 		left: 30px;
 		top: 30px;
